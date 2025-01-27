@@ -11,10 +11,10 @@ Atualmente eu estou...
 ## 
 
 <div>
-    <a href="http://beacons.ai/T-A-Fernandes">
-    <img height="180em"src="http://github-readme-stats.vercel.app/api?username=T-A-Fernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   
+  <img src="https://github-readme-stats.vercel.app/api?username=T-A-Fernandes&show_icons=true&theme=chartreuse-dark" alt="Estatísticas do GitHub do Thiago" align="left" height="165" width="700" />
+  <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" alt="Coding GIF" height="165" width="200"/>
 </div>
+
 
 ##
 
