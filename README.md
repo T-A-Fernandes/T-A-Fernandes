@@ -5,12 +5,17 @@ Curioso por natureza e movido pela paixão por tecnologia, estou sempre exploran
 Aqui no GitHub, compartilho um pouco da minha jornada, estudos, experimentos e tudo que me ajuda a evoluir como desenvolvedor. Se você também acredita no poder da inovação e da colaboração, seja bem-vindo — bora codar o futuro juntos! 🚀
 ## 
 
-Atualmente eu estou...
+🌱 O que estou cultivando hoje…
 
-💻 Trabalhando com Front-end <br>
-👨‍💻 Buscando refinar meus conhecimentos em Front-end <br>
-📚 Buscando ampliar meus conhecimentos em relação à programação <br>
-🏫 Cursando faculdade de Engenharia de Software <br>
+    💻 Desenvolvendo projetos com foco em Front-end, buscando criar experiências digitais fluidas, acessíveis e visualmente atraentes.
+
+    🧠 Aprofundando meu domínio em HTML, CSS, JavaScript e frameworks modernos, com atenção especial à arquitetura e boas práticas.
+
+    📚 Expandindo minha bagagem técnica com estudos constantes em Python e C, fortalecendo minha lógica e explorando diferentes paradigmas de programação.
+
+    🏫 Cursando Engenharia de Software, onde teoria e prática se encontram para moldar minha visão como desenvolvedor.
+
+    🔍 Explorando novas tecnologias, participando de comunidades e construindo projetos que me desafiem e me façam crescer.
 
 ## 
 
