@@ -1,4 +1,8 @@
-"Olá! 👋 Me chamo Thiago Fernandes e sou um engenheiro de software em construção, desbravando com entusiasmo o universo dos códigos e da inovação. 🚀 Bora construir o futuro juntos!"
+Fala aí! 👋 Eu sou o Thiago Fernandes, engenheiro de software em construção — tipo obra em progresso, mas com muito café, código e vontade de aprender. ☕💻
+
+Curioso por natureza e movido pela paixão por tecnologia, estou sempre explorando novas ferramentas, linguagens e ideias que possam transformar problemas em soluções inteligentes. Gosto de pensar que cada projeto é uma oportunidade de crescer, colaborar e impactar positivamente o mundo à nossa volta. 🌍
+
+Aqui no GitHub, compartilho um pouco da minha jornada, estudos, experimentos e tudo que me ajuda a evoluir como desenvolvedor. Se você também acredita no poder da inovação e da colaboração, seja bem-vindo — bora codar o futuro juntos! 🚀
 ## 
 
 Atualmente eu estou...
